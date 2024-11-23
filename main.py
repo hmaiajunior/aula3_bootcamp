@@ -18,3 +18,10 @@ lista_alunos = ["rafael","luciano","henrique"]
 
 for i in lista_alunos:
     print(i)
+
+
+
+
+a = ['Mary', 'had', 'a', 'little', 'lamb']
+for i in range(len(a)):
+     print(i, a[i])
