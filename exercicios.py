@@ -24,6 +24,7 @@
 
 texto = "o rato roeu a roupa do rei de roma em roma"
 palavras_tratadas = texto.replace(",","").split()
+print(palavras_tratadas)
 
 contagem_palavras = {}
 
