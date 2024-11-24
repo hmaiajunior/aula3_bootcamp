@@ -23,8 +23,7 @@
 
 
 texto = "o rato roeu a roupa do rei de roma em roma"
-palavras_sem_tratamento = texto
-palavras_tratadas = palavras_sem_tratamento.replace(",","").split()
+palavras_tratadas = texto.replace(",","").split()
 
 contagem_palavras = {}
 

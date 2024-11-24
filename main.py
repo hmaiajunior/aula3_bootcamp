@@ -14,10 +14,10 @@
 # for i in range(1,10):
 #     print(i)
 
-lista_alunos = ["rafael","luciano","henrique"]
+# lista_alunos = ["rafael","luciano","henrique"]
 
-for i in lista_alunos:
-    print(i)
+# for i in lista_alunos:
+#     print(i)
 
 
 
@@ -25,3 +25,5 @@ for i in lista_alunos:
 a = ['Mary', 'had', 'a', 'little', 'lamb']
 for i in range(len(a)):
      print(i, a[i])
+
+
